@@ -1,16 +1,8 @@
-# github_client
+# flutter_workshop_github_client
 
-A new Flutter project.
+My code for the Flutter Github Client workshop, presented at Google I/O 2022.
 
-## Getting Started
+See also:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  * [My code](https://github.com/justinmc/flutter_workshop_github_client_plugin) for plugin from the workshop.
+  * The [Flutter Github Client workshop](https://github.com/justinmc/flutter_workshop_github_client) itself.
